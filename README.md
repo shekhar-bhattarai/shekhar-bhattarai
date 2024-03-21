@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronics system design and hardware implementation
 - 🌱 I’m currently learning electronics system design
 - 💞️ I’m looking to collaborate on antenna design and communication
-- 📫 How to reach me shekarbhattarai7@gmail.com
+- 📫 How to reach me shekharbhattarai7@gmail.com
 
 <!---
 shekhar-bhattarai/shekhar-bhattarai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
